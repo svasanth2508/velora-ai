@@ -29,7 +29,7 @@
 
 **Velora AI** is an intelligent travel and tourism platform designed to transform the way people **plan, experience, and manage their journeys**.
 
-Instead of forcing travelers to use multiple applications for travel planning, recommendations, location services, and emergency assistance, Velora AI brings these capabilities together into a **single intelligent platform**.
+Instead of forcing travelers to use multiple applications for travel planning, recommendations, location services, and emergency assistance, Velora AI brings these capabilities together into a single platform that makes planning and navigating travel effortless and safe.
 
 The platform combines:
 
@@ -69,7 +69,8 @@ Travel Planning
 
 ### Velora AI brings these experiences together.
 
-```text
+<div align="center">
+<pre>
                 ┌───────────────────────┐
                 │       VELORA AI       │
                 │ Intelligent Travel Hub│
@@ -86,7 +87,8 @@ Travel Planning
           └─────────────────┼─────────────────┘
                             ▼
                     🌍 Better Journey
-```
+</pre>
+</div>
 
 ---
 
@@ -211,7 +213,7 @@ Natural Language Request
 | ⚡ **Vite**               | Development & build tooling     |
 | 🔥 **Firebase**          | Cloud services                  |
 | 🤖 **Google Gemini API** | AI capabilities                 |
-| 🗺️ **Google Maps**      | Maps & location services        |
+| 🗺️ **Google Maps**       | Maps & location services        |
 | 🎨 **CSS**               | UI styling                      |
 | 📦 **npm**               | Package management              |
 | 🐙 **GitHub**            | Version control & collaboration |
@@ -287,7 +289,49 @@ velora-ai/
 git clone https://github.com/svasanth2508/velora-ai.git
 ```
 
+## 2️⃣ Enter the project
 
+```bash
+cd velora-ai
+```
+
+## 3️⃣ Install dependencies
+
+```bash
+npm install
+```
+
+## 4️⃣ Configure environment variables
+
+Create:
+
+```text
+.env.local
+```
+
+Add the required API configuration.
+
+Example:
+
+```env
+VITE_GEMINI_API_KEY=your_api_key_here
+```
+
+> 🔐 Never commit `.env`, `.env.local`, API keys, private credentials, or service-account files to GitHub.
+
+## 5️⃣ Start the development server
+
+```bash
+npm run dev
+```
+
+## 6️⃣ Build for production
+
+```bash
+npm run build
+```
+
+---
 
 # 🔐 Security
 
@@ -468,6 +512,3 @@ If you like the project:
 ### Made with ❤️, ☕ & 🤖 AI
 
 </div>
-#   v e l o r a - a i 
- 
- 
