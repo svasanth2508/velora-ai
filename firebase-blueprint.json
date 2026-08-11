@@ -1,0 +1,124 @@
+{
+  "entities": {
+    "users": {
+      "title": "Users",
+      "description": "User profiles and settings",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "name": { "type": "string" },
+        "email": { "type": "string" },
+        "photoURL": { "type": "string" },
+        "createdAt": { "type": "string" }
+      },
+      "required": ["id"]
+    },
+    "savedTrips": {
+      "title": "Saved Digital Twin Trips",
+      "description": "Saved travel digital twins per user",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "userId": { "type": "string" },
+        "destination": { "type": "string" },
+        "durationDays": { "type": "number" },
+        "totalBudgetUsd": { "type": "number" },
+        "createdAt": { "type": "string" }
+      },
+      "required": ["id", "userId", "destination"]
+    },
+    "Reviews": {
+      "title": "Reviews",
+      "description": "User reviews and ratings for places and destinations",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "placeId": { "type": "string" },
+        "placeName": { "type": "string" },
+        "userId": { "type": "string" },
+        "userName": { "type": "string" },
+        "userAvatar": { "type": "string" },
+        "rating": { "type": "number" },
+        "reviewText": { "type": "string" },
+        "visitDate": { "type": "string" },
+        "createdAt": { "type": "string" },
+        "updatedAt": { "type": "string" },
+        "helpfulCount": { "type": "number" },
+        "verifiedBadge": { "type": "boolean" },
+        "reported": { "type": "boolean" },
+        "reportReason": { "type": "string" }
+      },
+      "required": ["id", "placeId", "userId", "rating", "reviewText"]
+    },
+    "ReviewImages": {
+      "title": "Review Images",
+      "description": "Image attachments uploaded by users for reviews",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "reviewId": { "type": "string" },
+        "placeId": { "type": "string" },
+        "imageUrl": { "type": "string" },
+        "uploadedAt": { "type": "string" },
+        "caption": { "type": "string" },
+        "likesCount": { "type": "number" },
+        "uploaderName": { "type": "string" },
+        "userId": { "type": "string" }
+      },
+      "required": ["id", "reviewId", "placeId", "imageUrl"]
+    },
+    "Likes": {
+      "title": "Likes",
+      "description": "Record of user likes and helpful votes on reviews",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "reviewId": { "type": "string" },
+        "userId": { "type": "string" },
+        "createdAt": { "type": "string" }
+      },
+      "required": ["id", "reviewId", "userId"]
+    },
+    "Reports": {
+      "title": "Reports",
+      "description": "User reports for inappropriate content or spam",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "reviewId": { "type": "string" },
+        "imageId": { "type": "string" },
+        "reportedBy": { "type": "string" },
+        "reason": { "type": "string" },
+        "status": { "type": "string" },
+        "createdAt": { "type": "string" }
+      },
+      "required": ["id", "reason"]
+    }
+  },
+  "firestore": {
+    "/users/{userId}": {
+      "schema": "users",
+      "description": "User profile collection"
+    },
+    "/savedTrips/{tripId}": {
+      "schema": "savedTrips",
+      "description": "Saved itineraries collection"
+    },
+    "/Reviews/{reviewId}": {
+      "schema": "Reviews",
+      "description": "Traveler place reviews collection"
+    },
+    "/ReviewImages/{imageId}": {
+      "schema": "ReviewImages",
+      "description": "Traveler review image attachments collection"
+    },
+    "/Likes/{likeId}": {
+      "schema": "Likes",
+      "description": "User helpful votes/likes collection"
+    },
+    "/Reports/{reportId}": {
+      "schema": "Reports",
+      "description": "Inappropriate content flags collection"
+    }
+  }
+}

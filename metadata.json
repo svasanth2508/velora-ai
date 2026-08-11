@@ -1,0 +1,6 @@
+{
+  "name": "Velora AI",
+  "description": "Velora AI — Next-Generation AI Tourism & Emergency Shield with 28 States Explorer, Live GPS SOS, Voice AI Command Center & Automated Emergency Contact Notifications.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

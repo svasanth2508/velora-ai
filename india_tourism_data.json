@@ -1,0 +1,362 @@
+[
+    {
+        "name": "Andhra Pradesh",
+        "wiki_title": "Andhra_Pradesh",
+        "type": "State",
+        "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tirumala_090615.jpg/3840px-Tirumala_090615.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "high_res_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tirumala_090615.jpg/3840px-Tirumala_090615.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tirumala_090615.jpg/330px-Tirumala_090615.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "short_description": "State in southeastern India",
+        "image_credit": "Wikimedia Commons / Wikipedia (Andhra Pradesh)"
+    },
+    {
+        "name": "Arunachal Pradesh",
+        "wiki_title": "Arunachal_Pradesh",
+        "type": "State",
+        "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/TawangMonastery-ArunachalPradesh-1.jpg/3840px-TawangMonastery-ArunachalPradesh-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "high_res_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/TawangMonastery-ArunachalPradesh-1.jpg/3840px-TawangMonastery-ArunachalPradesh-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/TawangMonastery-ArunachalPradesh-1.jpg/330px-TawangMonastery-ArunachalPradesh-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "short_description": "State in northeast India",
+        "image_credit": "Wikimedia Commons / Wikipedia (Arunachal Pradesh)"
+    },
+    {
+        "name": "Assam",
+        "wiki_title": "Assam",
+        "type": "State",
+        "photo_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Beauty_of_Kaziranga_National_Park.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "high_res_photo_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Beauty_of_Kaziranga_National_Park.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Beauty_of_Kaziranga_National_Park.jpg/330px-Beauty_of_Kaziranga_National_Park.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "short_description": "State in Northeast India",
+        "image_credit": "Wikimedia Commons / Wikipedia (Assam)"
+    },
+    {
+        "name": "Bihar",
+        "wiki_title": "Bihar",
+        "type": "State",
+        "photo_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Mahabodhi_temple_complex%2C_Bodhgaya_27.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "high_res_photo_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Mahabodhi_temple_complex%2C_Bodhgaya_27.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Mahabodhi_temple_complex%2C_Bodhgaya_27.jpg/330px-Mahabodhi_temple_complex%2C_Bodhgaya_27.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "short_description": "State in Eastern India",
+        "image_credit": "Wikimedia Commons / Wikipedia (Bihar)"
+    },
+    {
+        "name": "Chhattisgarh",
+        "wiki_title": "Chhattisgarh",
+        "type": "State",
+        "photo_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Bhoramdeo_Temple%2C_Kawardha.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "high_res_photo_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Bhoramdeo_Temple%2C_Kawardha.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Bhoramdeo_Temple%2C_Kawardha.jpg/330px-Bhoramdeo_Temple%2C_Kawardha.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "short_description": "State in central India",
+        "image_credit": "Wikimedia Commons / Wikipedia (Chhattisgarh)"
+    },
+    {
+        "name": "Goa",
+        "wiki_title": "Goa",
+        "type": "State",
+        "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/BeachFun.jpg/3840px-BeachFun.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "high_res_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/BeachFun.jpg/3840px-BeachFun.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/BeachFun.jpg/330px-BeachFun.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "short_description": "State in Southwest India",
+        "image_credit": "Wikimedia Commons / Wikipedia (Goa)"
+    },
+    {
+        "name": "Gujarat",
+        "wiki_title": "Gujarat",
+        "type": "State",
+        "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Rani_ki_vav_02.jpg/3840px-Rani_ki_vav_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "high_res_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Rani_ki_vav_02.jpg/3840px-Rani_ki_vav_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Rani_ki_vav_02.jpg/330px-Rani_ki_vav_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "short_description": "State in western India",
+        "image_credit": "Wikimedia Commons / Wikipedia (Gujarat)"
+    },
+    {
+        "name": "Haryana",
+        "wiki_title": "Haryana",
+        "type": "State",
+        "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cyber_City_View.jpg/3840px-Cyber_City_View.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "high_res_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cyber_City_View.jpg/3840px-Cyber_City_View.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cyber_City_View.jpg/330px-Cyber_City_View.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "short_description": "State in northwestern India",
+        "image_credit": "Wikimedia Commons / Wikipedia (Haryana)"
+    },
+    {
+        "name": "Himachal Pradesh",
+        "wiki_title": "Himachal_Pradesh",
+        "type": "State",
+        "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Kullu_Valley_near_Manali%2C_Himachal_Pradesh%2C_India.jpg/3840px-Kullu_Valley_near_Manali%2C_Himachal_Pradesh%2C_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "high_res_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Kullu_Valley_near_Manali%2C_Himachal_Pradesh%2C_India.jpg/3840px-Kullu_Valley_near_Manali%2C_Himachal_Pradesh%2C_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Kullu_Valley_near_Manali%2C_Himachal_Pradesh%2C_India.jpg/330px-Kullu_Valley_near_Manali%2C_Himachal_Pradesh%2C_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "short_description": "State in northwestern India",
+        "image_credit": "Wikimedia Commons / Wikipedia (Himachal Pradesh)"
+    },
+    {
+        "name": "Jharkhand",
+        "wiki_title": "Jharkhand",
+        "type": "State",
+        "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Views_of_Shikharji_on_way_to_Anantnatha_Tonk_3.jpg/3840px-Views_of_Shikharji_on_way_to_Anantnatha_Tonk_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "high_res_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Views_of_Shikharji_on_way_to_Anantnatha_Tonk_3.jpg/3840px-Views_of_Shikharji_on_way_to_Anantnatha_Tonk_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Views_of_Shikharji_on_way_to_Anantnatha_Tonk_3.jpg/330px-Views_of_Shikharji_on_way_to_Anantnatha_Tonk_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "short_description": "State in eastern India",
+        "image_credit": "Wikimedia Commons / Wikipedia (Jharkhand)"
+    },
+    {
+        "name": "Karnataka",
+        "wiki_title": "Karnataka",
+        "type": "State",
+        "photo_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Hampi_virupaksha_temple.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "high_res_photo_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Hampi_virupaksha_temple.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Hampi_virupaksha_temple.jpg/330px-Hampi_virupaksha_temple.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "short_description": "State in southwestern India",
+        "image_credit": "Wikimedia Commons / Wikipedia (Karnataka)"
+    },
+    {
+        "name": "Kerala",
+        "wiki_title": "Kerala",
+        "type": "State",
+        "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Boathouse_%287063399547%29.jpg/3840px-Boathouse_%287063399547%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "high_res_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Boathouse_%287063399547%29.jpg/3840px-Boathouse_%287063399547%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Boathouse_%287063399547%29.jpg/330px-Boathouse_%287063399547%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "short_description": "State in southwestern India",
+        "image_credit": "Wikimedia Commons / Wikipedia (Kerala)"
+    },
+    {
+        "name": "Madhya Pradesh",
+        "wiki_title": "Madhya_Pradesh",
+        "type": "State",
+        "photo_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/India-5749_-_Visvanatha_Temple_-_Flickr_-_archer10_%28Dennis%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "high_res_photo_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/India-5749_-_Visvanatha_Temple_-_Flickr_-_archer10_%28Dennis%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/India-5749_-_Visvanatha_Temple_-_Flickr_-_archer10_%28Dennis%29.jpg/330px-India-5749_-_Visvanatha_Temple_-_Flickr_-_archer10_%28Dennis%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "short_description": "State in central India",
+        "image_credit": "Wikimedia Commons / Wikipedia (Madhya Pradesh)"
+    },
+    {
+        "name": "Maharashtra",
+        "wiki_title": "Maharashtra",
+        "type": "State",
+        "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Cave_26%2C_Ajanta.jpg/3840px-Cave_26%2C_Ajanta.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "high_res_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Cave_26%2C_Ajanta.jpg/3840px-Cave_26%2C_Ajanta.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Cave_26%2C_Ajanta.jpg/330px-Cave_26%2C_Ajanta.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "short_description": "State in western India",
+        "image_credit": "Wikimedia Commons / Wikipedia (Maharashtra)"
+    },
+    {
+        "name": "Manipur",
+        "wiki_title": "Manipur",
+        "type": "State",
+        "photo_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/%EA%AF%85%EA%AF%A3%EA%AF%A1%EA%AF%83%EA%AF%A5%EA%AF%8F%EA%AF%86%EA%AF%A4%EA%AF%A1_%EA%AF%86%EA%AF%A4%EA%AF%A1%EA%AF%92%EA%AF%A4_%EA%AF%82%EA%AF%A5%EA%AF%8F%EA%AF%85%EA%AF%A4%EA%AF%A1%EA%AF%8A%EA%AF%A7_%EA%AF%81%EA%AF%85%EA%AF%A5%EA%AF%83%EA%AF%8D%EA%AF%A4_%EA%AF%82%EA%AF%A5%EA%AF%8F%EA%AF%81%EA%AF%AA_%28%EA%AF%81%EA%AF%85%EA%AF%A5%EA%AF%83%EA%AF%8D%EA%AF%A4_%EA%AF%80%EA%AF%A4%EA%AF%8C%EA%AF%A3%EA%AF%A1%29%EA%AF%92%EA%AF%A4_%EA%AF%91%EA%AF%8B%EA%AF%A5%EA%AF%A1_%EA%AF%85%EA%AF%A3%EA%AF%A1%EA%AF%86%EA%AF%A8%EA%AF%9E_%EA%AF%8A%EA%AF%AA%EA%AF%95_%EA%AF%83%EA%AF%A5%EA%AF%8F%EA%AF%80%EA%AF%A9%EA%AF%97%EA%AF%92%EA%AF%A4_%EA%AF%80%EA%AF%A5%EA%AF%9E%EA%AF%84_%EA%AF%83%EA%AF%83%EA%AF%A4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "high_res_photo_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/%EA%AF%85%EA%AF%A3%EA%AF%A1%EA%AF%83%EA%AF%A5%EA%AF%8F%EA%AF%86%EA%AF%A4%EA%AF%A1_%EA%AF%86%EA%AF%A4%EA%AF%A1%EA%AF%92%EA%AF%A4_%EA%AF%82%EA%AF%A5%EA%AF%8F%EA%AF%85%EA%AF%A4%EA%AF%A1%EA%AF%8A%EA%AF%A7_%EA%AF%81%EA%AF%85%EA%AF%A5%EA%AF%83%EA%AF%8D%EA%AF%A4_%EA%AF%82%EA%AF%A5%EA%AF%8F%EA%AF%81%EA%AF%AA_%28%EA%AF%81%EA%AF%85%EA%AF%A5%EA%AF%83%EA%AF%8D%EA%AF%A4_%EA%AF%80%EA%AF%A4%EA%AF%8C%EA%AF%A3%EA%AF%A1%29%EA%AF%92%EA%AF%A4_%EA%AF%91%EA%AF%8B%EA%AF%A5%EA%AF%A1_%EA%AF%85%EA%AF%A3%EA%AF%A1%EA%AF%86%EA%AF%A8%EA%AF%9E_%EA%AF%8A%EA%AF%AA%EA%AF%95_%EA%AF%83%EA%AF%A5%EA%AF%8F%EA%AF%80%EA%AF%A9%EA%AF%97%EA%AF%92%EA%AF%A4_%EA%AF%80%EA%AF%A5%EA%AF%9E%EA%AF%84_%EA%AF%83%EA%AF%83%EA%AF%A4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/%EA%AF%85%EA%AF%A3%EA%AF%A1%EA%AF%83%EA%AF%A5%EA%AF%8F%EA%AF%86%EA%AF%A4%EA%AF%A1_%EA%AF%86%EA%AF%A4%EA%AF%A1%EA%AF%92%EA%AF%A4_%EA%AF%82%EA%AF%A5%EA%AF%8F%EA%AF%85%EA%AF%A4%EA%AF%A1%EA%AF%8A%EA%AF%A7_%EA%AF%81%EA%AF%85%EA%AF%A5%EA%AF%83%EA%AF%8D%EA%AF%A4_%EA%AF%82%EA%AF%A5%EA%AF%8F%EA%AF%81%EA%AF%AA_%28%EA%AF%81%EA%AF%85%EA%AF%A5%EA%AF%83%EA%AF%8D%EA%AF%A4_%EA%AF%80%EA%AF%A4%EA%AF%8C%EA%AF%A3%EA%AF%A1%29%EA%AF%92%EA%AF%A4_%EA%AF%91%EA%AF%8B%EA%AF%A5%EA%AF%A1_%EA%AF%85%EA%AF%A3%EA%AF%A1%EA%AF%86%EA%AF%A8%EA%AF%9E_%EA%AF%8A%EA%AF%AA%EA%AF%95_%EA%AF%83%EA%AF%A5%EA%AF%8F%EA%AF%80%EA%AF%A9%EA%AF%97%EA%AF%92%EA%AF%A4_%EA%AF%80%EA%AF%A5%EA%AF%9E%EA%AF%84_%EA%AF%83%EA%AF%83%EA%AF%A4.jpg/330px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "short_description": "State in northeastern India",
+        "image_credit": "Wikimedia Commons / Wikipedia (Manipur)"
+    },
+    {
+        "name": "Meghalaya",
+        "wiki_title": "Meghalaya",
+        "type": "State",
+        "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Dawki_River%2C_Meghalaya%2C_India.jpg/3840px-Dawki_River%2C_Meghalaya%2C_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "high_res_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Dawki_River%2C_Meghalaya%2C_India.jpg/3840px-Dawki_River%2C_Meghalaya%2C_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Dawki_River%2C_Meghalaya%2C_India.jpg/330px-Dawki_River%2C_Meghalaya%2C_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "short_description": "State in northeastern India",
+        "image_credit": "Wikimedia Commons / Wikipedia (Meghalaya)"
+    },
+    {
+        "name": "Mizoram",
+        "wiki_title": "Mizoram",
+        "type": "State",
+        "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Embossed_Figures_Kawtchhuah_Ropui_Vangchhia_Mapuia_Hnamte_%281%29.JPG/3840px-Embossed_Figures_Kawtchhuah_Ropui_Vangchhia_Mapuia_Hnamte_%281%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "high_res_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Embossed_Figures_Kawtchhuah_Ropui_Vangchhia_Mapuia_Hnamte_%281%29.JPG/3840px-Embossed_Figures_Kawtchhuah_Ropui_Vangchhia_Mapuia_Hnamte_%281%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Embossed_Figures_Kawtchhuah_Ropui_Vangchhia_Mapuia_Hnamte_%281%29.JPG/330px-Embossed_Figures_Kawtchhuah_Ropui_Vangchhia_Mapuia_Hnamte_%281%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "short_description": "State in Northeast India, India",
+        "image_credit": "Wikimedia Commons / Wikipedia (Mizoram)"
+    },
+    {
+        "name": "Nagaland",
+        "wiki_title": "Nagaland",
+        "type": "State",
+        "photo_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Kapamodzu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "high_res_photo_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Kapamodzu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Kapamodzu.jpg/330px-Kapamodzu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "short_description": "State in northeastern India",
+        "image_credit": "Wikimedia Commons / Wikipedia (Nagaland)"
+    },
+    {
+        "name": "Odisha",
+        "wiki_title": "Odisha",
+        "type": "State",
+        "photo_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Brahmeswar_Temple%2C_Bhubaneswar.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "high_res_photo_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Brahmeswar_Temple%2C_Bhubaneswar.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Brahmeswar_Temple%2C_Bhubaneswar.JPG/330px-Brahmeswar_Temple%2C_Bhubaneswar.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "short_description": "State in Eastern India",
+        "image_credit": "Wikimedia Commons / Wikipedia (Odisha)"
+    },
+    {
+        "name": "Punjab",
+        "wiki_title": "Punjab,_India",
+        "type": "State",
+        "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Golden_Temple%2C_Amritsar%2C_Punjab_UNAG.jpg/3840px-Golden_Temple%2C_Amritsar%2C_Punjab_UNAG.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "high_res_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Golden_Temple%2C_Amritsar%2C_Punjab_UNAG.jpg/3840px-Golden_Temple%2C_Amritsar%2C_Punjab_UNAG.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Golden_Temple%2C_Amritsar%2C_Punjab_UNAG.jpg/330px-Golden_Temple%2C_Amritsar%2C_Punjab_UNAG.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "short_description": "State in northwestern India",
+        "image_credit": "Wikimedia Commons / Wikipedia (Punjab, India)"
+    },
+    {
+        "name": "Rajasthan",
+        "wiki_title": "Rajasthan",
+        "type": "State",
+        "photo_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Thar_Khuri.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "high_res_photo_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Thar_Khuri.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Thar_Khuri.jpg/330px-Thar_Khuri.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "short_description": "State in northwestern India",
+        "image_credit": "Wikimedia Commons / Wikipedia (Rajasthan)"
+    },
+    {
+        "name": "Sikkim",
+        "wiki_title": "Sikkim",
+        "type": "State",
+        "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Gurudongmar_Lake_Sikkim%2C_India_%28edit%29.jpg/3840px-Gurudongmar_Lake_Sikkim%2C_India_%28edit%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "high_res_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Gurudongmar_Lake_Sikkim%2C_India_%28edit%29.jpg/3840px-Gurudongmar_Lake_Sikkim%2C_India_%28edit%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Gurudongmar_Lake_Sikkim%2C_India_%28edit%29.jpg/330px-Gurudongmar_Lake_Sikkim%2C_India_%28edit%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "short_description": "State in northeastern India",
+        "image_credit": "Wikimedia Commons / Wikipedia (Sikkim)"
+    },
+    {
+        "name": "Tamil Nadu",
+        "wiki_title": "Tamil_Nadu",
+        "type": "State",
+        "photo_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Mamallapuram_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "high_res_photo_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Mamallapuram_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Mamallapuram_view.jpg/330px-Mamallapuram_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "short_description": "State in southern India",
+        "image_credit": "Wikimedia Commons / Wikipedia (Tamil Nadu)"
+    },
+    {
+        "name": "Telangana",
+        "wiki_title": "Telangana",
+        "type": "State",
+        "photo_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/A_typical_charminar_evening.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "high_res_photo_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/A_typical_charminar_evening.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/A_typical_charminar_evening.jpg/330px-A_typical_charminar_evening.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "short_description": "State in southern India",
+        "image_credit": "Wikimedia Commons / Wikipedia (Telangana)"
+    },
+    {
+        "name": "Tripura",
+        "wiki_title": "Tripura",
+        "type": "State",
+        "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg/3840px-Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "high_res_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg/3840px-Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg/330px-Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "short_description": "State in northeastern India",
+        "image_credit": "Wikimedia Commons / Wikipedia (Tripura)"
+    },
+    {
+        "name": "Uttar Pradesh",
+        "wiki_title": "Uttar_Pradesh",
+        "type": "State",
+        "photo_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Taj_Mahal_%28Edited%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "high_res_photo_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Taj_Mahal_%28Edited%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/330px-Taj_Mahal_%28Edited%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "short_description": "State in northern India",
+        "image_credit": "Wikimedia Commons / Wikipedia (Uttar Pradesh)"
+    },
+    {
+        "name": "Uttarakhand",
+        "wiki_title": "Uttarakhand",
+        "type": "State",
+        "photo_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Nanda_Devi_-_Hidden_Summit%2C_Uttarakhand_India_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "high_res_photo_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Nanda_Devi_-_Hidden_Summit%2C_Uttarakhand_India_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Nanda_Devi_-_Hidden_Summit%2C_Uttarakhand_India_2013.jpg/330px-Nanda_Devi_-_Hidden_Summit%2C_Uttarakhand_India_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "short_description": "State in northern India",
+        "image_credit": "Wikimedia Commons / Wikipedia (Uttarakhand)"
+    },
+    {
+        "name": "West Bengal",
+        "wiki_title": "West_Bengal",
+        "type": "State",
+        "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Howrah_bridge_betwixt_Lights.jpg/3840px-Howrah_bridge_betwixt_Lights.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "high_res_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Howrah_bridge_betwixt_Lights.jpg/3840px-Howrah_bridge_betwixt_Lights.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Howrah_bridge_betwixt_Lights.jpg/330px-Howrah_bridge_betwixt_Lights.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "short_description": "State in eastern India",
+        "image_credit": "Wikimedia Commons / Wikipedia (West Bengal)"
+    },
+    {
+        "name": "Andaman and Nicobar Islands",
+        "wiki_title": "Andaman_and_Nicobar_Islands",
+        "type": "Union Territory",
+        "photo_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/The_Coral_Reef_at_the_Andaman_Islands.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "high_res_photo_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/The_Coral_Reef_at_the_Andaman_Islands.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/The_Coral_Reef_at_the_Andaman_Islands.jpg/330px-The_Coral_Reef_at_the_Andaman_Islands.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "short_description": "Union territory of India",
+        "image_credit": "Wikimedia Commons / Wikipedia (Andaman and Nicobar Islands)"
+    },
+    {
+        "name": "Chandigarh",
+        "wiki_title": "Chandigarh",
+        "type": "Union Territory",
+        "photo_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Open_Hand_monument%2C_Chandigarh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "high_res_photo_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Open_Hand_monument%2C_Chandigarh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Open_Hand_monument%2C_Chandigarh.jpg/330px-Open_Hand_monument%2C_Chandigarh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "short_description": "Union territory and capital of Punjab and Haryana, India",
+        "image_credit": "Wikimedia Commons / Wikipedia (Chandigarh)"
+    },
+    {
+        "name": "Dadra and Nagar Haveli and Daman and Diu",
+        "wiki_title": "Dadra_and_Nagar_Haveli_and_Daman_and_Diu",
+        "type": "Union Territory",
+        "photo_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Vanganga_Garden%2C_Silvassa_%2832345632184%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "high_res_photo_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Vanganga_Garden%2C_Silvassa_%2832345632184%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Vanganga_Garden%2C_Silvassa_%2832345632184%29.jpg/330px-Vanganga_Garden%2C_Silvassa_%2832345632184%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "short_description": "Union territory of India",
+        "image_credit": "Wikimedia Commons / Wikipedia (Dadra and Nagar Haveli and Daman and Diu)"
+    },
+    {
+        "name": "Delhi",
+        "wiki_title": "Delhi",
+        "type": "Union Territory",
+        "photo_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Jama_Masjid_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "high_res_photo_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Jama_Masjid_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Jama_Masjid_2011.jpg/330px-Jama_Masjid_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "short_description": "Megacity and union territory of India",
+        "image_credit": "Wikimedia Commons / Wikipedia (Delhi)"
+    },
+    {
+        "name": "Jammu and Kashmir",
+        "wiki_title": "Jammu_and_Kashmir_(union_territory)",
+        "type": "Union Territory",
+        "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Pahalgam_Valley.jpg/3840px-Pahalgam_Valley.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "high_res_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Pahalgam_Valley.jpg/3840px-Pahalgam_Valley.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Pahalgam_Valley.jpg/330px-Pahalgam_Valley.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "short_description": "Region administered by India",
+        "image_credit": "Wikimedia Commons / Wikipedia (Jammu and Kashmir (union territory))"
+    },
+    {
+        "name": "Ladakh",
+        "wiki_title": "Ladakh",
+        "type": "Union Territory",
+        "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Road_Padum_Zanskar_Range_Jun24_A7CR_00818.jpg/3840px-Road_Padum_Zanskar_Range_Jun24_A7CR_00818.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "high_res_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Road_Padum_Zanskar_Range_Jun24_A7CR_00818.jpg/3840px-Road_Padum_Zanskar_Range_Jun24_A7CR_00818.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Road_Padum_Zanskar_Range_Jun24_A7CR_00818.jpg/330px-Road_Padum_Zanskar_Range_Jun24_A7CR_00818.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "short_description": "Union territory administered by India",
+        "image_credit": "Wikimedia Commons / Wikipedia (Ladakh)"
+    },
+    {
+        "name": "Lakshadweep",
+        "wiki_title": "Lakshadweep",
+        "type": "Union Territory",
+        "photo_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/A_beach_side_resort_at_Kadmat_Island%2C_Lakshadweep.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "high_res_photo_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/A_beach_side_resort_at_Kadmat_Island%2C_Lakshadweep.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/A_beach_side_resort_at_Kadmat_Island%2C_Lakshadweep.jpg/330px-A_beach_side_resort_at_Kadmat_Island%2C_Lakshadweep.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "short_description": "Union territory of India",
+        "image_credit": "Wikimedia Commons / Wikipedia (Lakshadweep)"
+    },
+    {
+        "name": "Puducherry",
+        "wiki_title": "Puducherry",
+        "type": "Union Territory",
+        "photo_url": "",
+        "high_res_photo_url": "",
+        "thumbnail_url": "",
+        "short_description": "Topics referred to by the same term",
+        "image_credit": "Wikimedia Commons / Wikipedia (Puducherry)"
+    }
+]
