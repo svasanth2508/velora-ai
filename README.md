@@ -510,3 +510,5 @@ If you like the project:
 ### Made with ❤️, ☕ & 🤖 AI
 
 </div>
+#   v e l o r a - a i  
+ 
