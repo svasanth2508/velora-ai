@@ -8,20 +8,17 @@ import { KNOWN_COORDINATES } from './src/data/knownCoordinates';
 
 dotenv.config();
 
-const app = express();
-const PORT = 3000;
+export const app = express();
+const PORT = Number(process.env.PORT) || 3000;
 
 app.use(express.json());
 
 // Initialize Gemini SDK with telemetry header
+// Initialize Gemini SDK
 const aiKey = process.env.GEMINI_API_KEY || '';
+
 const ai = new GoogleGenAI({
   apiKey: aiKey,
-  httpOptions: {
-    headers: {
-      'User-Agent': 'aistudio-build',
-    },
-  },
 });
 
 // Resilient Gemini API Call with Multi-Model Fallback & Retries
@@ -2610,24 +2607,44 @@ app.get('/api/location-image', async (req, res) => {
 
 
 // Start Express Server & Vite Integration
+// Start Express Server for local development.
+// On Vercel, this file is imported by the serverless API function,
+// so we MUST NOT call app.listen() there.
+
 async function startServer() {
   if (process.env.NODE_ENV !== 'production') {
     const vite = await createViteServer({
-      server: { middlewareMode: true },
+      server: {
+        middlewareMode: true,
+      },
       appType: 'spa',
     });
+
     app.use(vite.middlewares);
   } else {
     const distPath = path.join(process.cwd(), 'dist');
+
     app.use(express.static(distPath));
+
     app.get('*', (req, res) => {
       res.sendFile(path.join(distPath, 'index.html'));
     });
   }
 
   app.listen(PORT, '0.0.0.0', () => {
-    console.log(`Velora AI Server running on http://0.0.0.0:${PORT}`);
+    console.log(
+      `Velora AI Server running on http://0.0.0.0:${PORT}`
+    );
   });
 }
 
-startServer();
+// Only start the local Express server when running locally.
+// Vercel imports `app` through api/[...path].ts.
+if (!process.env.VERCEL) {
+  startServer().catch((error) => {
+    console.error('Failed to start Velora AI server:', error);
+    process.exit(1);
+  });
+}
+
+export default app;

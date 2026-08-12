@@ -213,24 +213,47 @@ export const AITripPlanner: React.FC<AITripPlannerProps> = ({
     try {
       setTimeout(() => setLoadingStep('Optimizing routes, hotels, and ASI entrance fees in ₹ INR...'), 1000);
       setTimeout(() => setLoadingStep('Calculating budget allocations & crowd-avoidance windows...'), 2000);
+const response = await fetch('/api/simulate-trip', {
+  method: 'POST',
+  headers: {
+    'Content-Type': 'application/json',
+  },
+  body: JSON.stringify({
+    destination,
+    originLocation,
+    durationDays,
+    travelStyle,
+    pace,
+    totalBudgetUsd,
+    dietary: userProfile?.dietary || ['Pure Veg'],
+    interests: userProfile?.interests || ['Heritage', 'Nature'],
+    privacyLevel: 'fuzzy-location',
+  }),
+});
 
-      const response = await fetch('/api/simulate-trip', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          destination,
-          originLocation,
-          durationDays,
-          travelStyle,
-          pace,
-          totalBudgetUsd,
-          dietary: userProfile?.dietary || ['Pure Veg'],
-          interests: userProfile?.interests || ['Heritage', 'Nature'],
-          privacyLevel: 'fuzzy-location',
-        }),
-      });
+let data: any = null;
 
-      const data = await response.json();
+try {
+  data = await response.json();
+} catch {
+  throw new Error(
+    `Server returned an invalid response (HTTP ${response.status})`
+  );
+}
+
+if (!response.ok) {
+  throw new Error(
+    data?.error ||
+    data?.message ||
+    `Trip generation failed with HTTP ${response.status}`
+  );
+}
+
+if (!data || !Array.isArray(data.itinerary)) {
+  throw new Error(
+    'Trip generation API returned an invalid itinerary.'
+  );
+}
 
       const newTrip: TripPlan = {
         id: `trip-${Date.now()}`,
@@ -253,10 +276,18 @@ export const AITripPlanner: React.FC<AITripPlannerProps> = ({
 
       setGeneratedTrip(newTrip);
       onTripGenerated(newTrip);
-    } catch (err) {
-      console.error('Error generating trip plan:', err);
-      alert('Connected fallback trip generator for ' + destination);
-    } finally {
+    }  catch (err) {
+  console.error('Error generating trip plan:', err);
+
+  const message =
+    err instanceof Error
+      ? err.message
+      : 'Unable to generate the trip plan.';
+
+  alert(
+    `Unable to generate the trip for ${destination}.\n\n${message}\n\nPlease try again.`
+  );
+} finally {
       setIsLoading(false);
     }
   };
